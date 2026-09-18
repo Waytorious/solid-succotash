@@ -17,6 +17,7 @@ int main(){
     std::cout << global << std::endl;
 
     std::cout << "Hello World!" << std::endl;
+    std::cout << "HELOOOOOOOOOO!!!!" << std::endl;
     return 0;
 }
 
